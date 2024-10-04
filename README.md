@@ -38,7 +38,7 @@
 8. Validate web browser can start or not and validate the automation test able to running with expected elements and detail
 
 
-# saucedemo_katalon - Automation Use Katalon2
+# saucedemo_katalon - Generate and Open Report
 For generate report, it's automatically handle by Katalon. Thanks to Katalon.
 
 1. After successfully or fail executed the test suites, -> then from system will be automatically generate the our report
