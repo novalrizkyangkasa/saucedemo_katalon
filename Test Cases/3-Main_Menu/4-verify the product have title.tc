@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>4-verify the product have title</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>75e0962f-51b7-4bcb-b07f-615d559e471c</testCaseGuid>
+</TestCaseEntity>

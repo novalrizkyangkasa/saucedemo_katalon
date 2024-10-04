@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>5-verify the product have description</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8f421a54-70dd-49cb-8298-7380f007df1e</testCaseGuid>
+</TestCaseEntity>

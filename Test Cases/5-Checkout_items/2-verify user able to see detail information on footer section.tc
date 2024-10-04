@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2-verify user able to see detail information on footer section</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>851dc6e7-8eed-4ad9-a337-7ffd71cd511e</testCaseGuid>
+</TestCaseEntity>

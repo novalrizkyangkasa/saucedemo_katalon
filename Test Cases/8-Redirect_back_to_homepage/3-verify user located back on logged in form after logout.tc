@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>3-verify user located back on logged in form after logout</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>284b1bb3-0504-4f98-b4ee-4662913b558e</testCaseGuid>
+</TestCaseEntity>

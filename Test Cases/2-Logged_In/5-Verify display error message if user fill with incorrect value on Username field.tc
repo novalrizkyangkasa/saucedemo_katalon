@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>5-Verify display error message if user fill with incorrect value on Username field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8c72ed21-9e8d-47bf-b935-257a044e02f7</testCaseGuid>
+</TestCaseEntity>

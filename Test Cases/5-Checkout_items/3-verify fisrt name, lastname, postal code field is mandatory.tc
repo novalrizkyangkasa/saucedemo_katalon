@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>3-verify fisrt name, lastname, postal code field is mandatory</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5c0b5bcb-7c4f-4074-b6c7-4e6041cb94cb</testCaseGuid>
+</TestCaseEntity>

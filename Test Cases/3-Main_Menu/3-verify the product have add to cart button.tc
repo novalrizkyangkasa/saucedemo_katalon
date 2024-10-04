@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>3-verify the product have add to cart button</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8943f2fb-3e8c-4bed-b54a-f6999e4cefc5</testCaseGuid>
+</TestCaseEntity>

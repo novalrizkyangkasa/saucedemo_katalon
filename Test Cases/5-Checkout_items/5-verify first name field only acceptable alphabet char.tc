@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>5-verify first name field only acceptable alphabet char</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ad97319b-a309-4e56-84a5-01e348fb9be2</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2-verify user can logout from homepage swag labs</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c8e83bb0-df7c-4638-953d-3b66fba216db</testCaseGuid>
+</TestCaseEntity>

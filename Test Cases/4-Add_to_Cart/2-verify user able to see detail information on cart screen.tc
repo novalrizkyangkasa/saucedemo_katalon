@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2-verify user able to see detail information on cart screen</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>157f60ea-5e9e-4909-9653-7e9d94abd36c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>7-verify user able to fill with correct value</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2e121636-4948-4046-ba8c-b9e9cbd0ffab</testCaseGuid>
+</TestCaseEntity>

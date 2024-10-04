@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>3-verify user able tap on finish button after check price total is same based on count each item on step 1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>eaf277c6-e753-494a-999b-811db350cbc9</testCaseGuid>
+</TestCaseEntity>

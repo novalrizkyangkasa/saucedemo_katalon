@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>8-verify user able to see detail information</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cad23e34-f1ae-41e0-a59e-e582cecc4926</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>3-verify user able to see detail information on footer section on cart screen</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>032449a3-ba48-476b-919b-6bb9ba4a1ad3</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1-verify user located on checkout complete screen section</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>df96afdb-9049-46a4-bb04-9e481e15ac41</testCaseGuid>
+</TestCaseEntity>

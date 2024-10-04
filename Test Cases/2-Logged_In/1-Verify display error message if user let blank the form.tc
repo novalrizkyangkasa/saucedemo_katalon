@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1-Verify display error message if user let blank the form</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1489c1c1-2a14-4025-840f-921e7fdd90ed</testCaseGuid>
+</TestCaseEntity>

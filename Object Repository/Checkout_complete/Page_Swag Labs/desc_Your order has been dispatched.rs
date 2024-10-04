@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>desc_Your order has been dispatched</name>
+   <tag></tag>
+   <elementGuidId>52e6ec32-561a-4907-8eab-6c6120e6dd7c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.complete-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@data-test=&quot;complete-text&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>653aa0c1-40e7-4013-b6ef-b52b86963e43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>complete-text</value>
+      <webElementGuid>e0ad0535-3aac-4b39-9a51-e0115cf51026</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test</name>
+      <type>Main</type>
+      <value>complete-text</value>
+      <webElementGuid>d65d3bc2-cd41-43b3-a8d4-cdfe8c10c2cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Your order has been dispatched, and will arrive just as fast as the pony can get there!</value>
+      <webElementGuid>5e47961c-dd4a-410f-a503-132d85ab5014</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkout_complete_container&quot;)/div[@class=&quot;complete-text&quot;]</value>
+      <webElementGuid>d02aa559-adf2-4d97-800c-da02f5f452f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='checkout_complete_container']/div</value>
+      <webElementGuid>5f45ee4e-2299-45f3-9529-f880d3648473</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thank you for your order!'])[1]/following::div[1]</value>
+      <webElementGuid>4a7096fb-a339-40c4-b6ec-a9e13e92d23a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checkout: Complete!'])[1]/following::div[2]</value>
+      <webElementGuid>c1b55967-b32c-4f4c-9be1-b3f7345da10c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back Home'])[1]/preceding::div[1]</value>
+      <webElementGuid>28dbd67e-5ae4-47bc-afb7-fff53f8279af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Twitter'])[1]/preceding::div[1]</value>
+      <webElementGuid>ce291e7a-0889-40c6-996a-5527fa618c9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Your order has been dispatched, and will arrive just as fast as the pony can get there!']/parent::*</value>
+      <webElementGuid>b7c4e396-4fe5-463b-80fe-2436334d846b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div</value>
+      <webElementGuid>afb053cc-2853-47d7-b69a-1400799f8073</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Your order has been dispatched, and will arrive just as fast as the pony can get there!' or . = 'Your order has been dispatched, and will arrive just as fast as the pony can get there!')]</value>
+      <webElementGuid>5cc070db-0c72-422c-a467-db795607f325</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

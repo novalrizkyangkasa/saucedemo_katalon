@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1-verify user redirect back to homepage</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>068bc2f2-a7ec-4f0b-b82c-9ca5f9e90c32</testCaseGuid>
+</TestCaseEntity>

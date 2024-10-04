@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1-verify title</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b1a492b8-8d57-4bcb-96aa-fad7a3d4820a</testCaseGuid>
+</TestCaseEntity>

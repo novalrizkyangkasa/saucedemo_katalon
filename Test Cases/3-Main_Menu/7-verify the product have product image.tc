@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>7-verify the product have product image</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>71d4cae1-9ecd-4e67-85bd-53aec5ccce12</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>4-verify system can identify if information buyer is not filled (blank all)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>19c48146-bb22-4edd-8000-e98b69e97fe6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1-verifyuser able to tap on add to cart on that item</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>025a07d1-af75-41d7-b12f-14a418143fdf</testCaseGuid>
+</TestCaseEntity>
